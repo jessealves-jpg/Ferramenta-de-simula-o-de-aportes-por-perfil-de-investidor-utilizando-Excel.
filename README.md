@@ -135,11 +135,23 @@ Os prints abaixo demonstram o funcionamento da planilha em diferentes perfis de 
 
 ### Perfil Agressivo
 
-Adicionar aqui a captura de tela da planilha preenchida com o perfil Agressivo.
+![Perfil Agressivo](Perfil%20Agressivo.png)
 
-### Segundo perfil de investidor
 
-Adicionar aqui a captura de tela da mesma simulação após selecionar outro perfil.
+
+
+
+![Perfil Conservador](Perfil%20Conservador.png)
+
+
+
+### Perfil Moderado
+
+![Perfil Moderado](Perfil%20Moderado.png) 
+
+### Gráfico da simulação
+
+![Gráfico da simulação](Grafico.png)
 
 ## Diferenças em relação à ferramenta do Expert
 
